@@ -1,35 +1,35 @@
 [{
     "id": 1,
     "title": "addwsds",
-    "avatar": true,
+    "avatar": "https://picsum.photos/40?random",
     "amount": 5,
     "price": 10
   },
   {
     "id": 2,
     "title": "wews",
-    "avatar": false,
+    "avatar": "https://picsum.photos/40?random",
     "amount": 3,
     "price": 25
   },
   {
     "id": 3,
     "title": "ews",
-    "avatar": false,
+    "avatar": "https://picsum.photos/40?random",
     "amount": 1,
     "price": 102
   },
   {
     "id": 4,
     "title": "ewsadadad",
-    "avatar": false,
+    "avatar": "https://picsum.photos/40?random",
     "amount": 1,
     "price": 12313
   },
   {
     "id": 5,
     "title": "esASS1",
-    "avatar": false,
+    "avatar": "https://picsum.photos/40?random",
     "amount": 121,
     "price": 19
   }
